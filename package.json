@@ -1,0 +1,29 @@
+{
+  "name": "d3-cli",
+  "version": "1.0.0",
+  "description": "D3 Viz Scaffolding utility",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./bin/cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yosiasz/d3-cli.git"
+  },
+  "keywords": [
+    "d3-cli",
+    "d3"
+  ],
+  "author": "Josiah Solomon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yosiasz/d3-cli/issues"
+  },
+  "homepage": "https://github.com/yosiasz/d3-cli#readme",
+  "dependencies": {
+    "commander": "^2.15.1",
+    "inquirer": "^5.2.0"
+  }
+}
