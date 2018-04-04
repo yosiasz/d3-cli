@@ -8,9 +8,12 @@ Command Line Tool for creating d3 stub code
 ### 3. [inquirer.js](https://www.npmjs.com/package/inquirer)
 
 ## Installation
+```bash
 git clone https://github.com/yosiasz/d3-cli.git
 cd to d3-cli
 npm install
+```
+
 
 ## Examples
 d3-cli -ct Bar -ds http://locahost:8000/api/cars
